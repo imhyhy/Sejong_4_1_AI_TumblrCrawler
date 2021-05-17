@@ -1,2 +1,2 @@
-# Sejong_4_1_AI_TumblrCrawler
-This is a code to crawling tumblelog
+# tumblogcrawler
+Code that explores the inside of the blog for self-filtering before the nsfw censorship inside tumblr started, and scrapes the list of blogs that were found to be harmful content.
